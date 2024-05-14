@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T16:31:04 IST" name="Default suite" finished-at="2024-04-04T16:31:04 IST" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T16:31:04 IST" name="Default test" finished-at="2024-04-04T16:31:04 IST" duration-ms="52">
+      <class name="JavaStreams.StremMaps">
+        <test-method signature="streamCollect()[pri:0, instance:JavaStreams.StremMaps@72d1ad2e]" started-at="2024-04-04T16:31:04 IST" name="streamCollect" finished-at="2024-04-04T16:31:04 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- JavaStreams.StremMaps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
